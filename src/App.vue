@@ -8,6 +8,7 @@
     <router-link to ="/bar">bar</router-link>
     <router-link to="/quan">quan</router-link>
     <router-link to="/mine">mine</router-link>
+    <router-link to="/home">home</router-link>
     </p>
     <router-view/>
   </div>
